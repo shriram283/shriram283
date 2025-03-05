@@ -14,7 +14,7 @@
 
 </p>
 - 👋 Hi, I’m Shriram Kekan.<br>
-- 💼 I'm a pre-final computer science undergraduate.<br>
+- 💼 I'm a Final Year Computer Science Undergraduate.<br>
 - 🔭 Learning MERN Stack and working on web development projects.<br>
 - 👯 Open for project collaboration<br>
 
